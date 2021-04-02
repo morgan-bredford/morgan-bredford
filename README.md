@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 I’m a web developer currently looking for work.
+📫 linkedin.com/in/morgan-bredford/
+📫 morgan.b@gmx.com
 <!--
 **morgan-bredford/morgan-bredford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
